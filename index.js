@@ -146,7 +146,12 @@ function massaMuscularEsqueletica(event) {
     <body>
       <header>
         <div>
-          <img src="logo.png" />
+          <h2>Esp. Jancinẽia Oliveira</h2>
+          <strong>Cref: 0486-G/PI</strong>
+        </div>
+        <div>
+          <h2>Dra. Jancineide Carvalho</h2>
+          <strong>Cref: 0274-G/PI</strong>
         </div>
       </header>
       <main>
@@ -230,7 +235,7 @@ function massaMuscularEsqueletica(event) {
         </article>
       </main>
       <footer>
-        <div class="backgroundLogo"><img src="logo.png" /></div>
+        <div><img src="logo.png" /></div>
         <div class="loc">
           <p>Espaço MEDFISIO</p>
           <p>Rua Professor Joca Vieira, 1400</p>
